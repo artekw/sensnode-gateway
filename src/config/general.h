@@ -1,4 +1,4 @@
-#define WIFI_SSID "digi-led"
-#define WIFI_KEY "olecka88"
+#define WIFI_SSID "SSID"
+#define WIFI_KEY "PASS"
 
 const char *mqttServer = "192.168.88.245";
